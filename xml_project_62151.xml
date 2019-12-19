@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE menu SYSTEM "project_dtd.xml">
+<?xml-stylesheet type="text/xsl" href="project-xsl2.xsl"?>
+<menu>
+	<salad>
+		<dish>
+			<name>Slavic salad</name>
+			<ingredients>
+				<item>tomatoes</item>
+				<item>roasted peppers</item>
+				<item>olives</item>
+				<item>parsley</item>
+				<item>yoghurt and white cheese mash</item>
+				<item>garlic olive oil</item>
+			</ingredients>
+			<amount unit="g">450 </amount>
+			<price currency="lv.">7.49 </price>
+		</dish>
+		<dish>
+			<name>Shopska salad</name>
+			<ingredients>
+				<item>tomatoes</item>
+				<item>cucumbers</item>
+				<item>white cheese</item>
+				<item>red onion</item>
+				<item>parsley</item>
+				<item>pickled pepper</item>
+			</ingredients>
+			<amount unit="g">510 </amount>
+			<price currency="lv.">6.99 </price>
+		</dish>
+		<dish>
+			<name>Shepherd's salad</name>
+			<ingredients>
+				<item>tomatoes</item>
+				<item>cucumbers</item>
+				<item>bacon</item>
+				<item>egg</item>
+				<item>yellow cheese</item>
+				<item>mushrooms</item>
+				<item>spring onion</item>
+				<item>parsley</item>
+				<item>yoghurt and white cheese mash</item>
+				<item>pickled pepper</item>
+			</ingredients>
+			<amount unit="g">500 </amount>
+			<price currency="lv.">9.49 </price>
+		</dish>
+		<dish>
+			<name>Chef's salad</name>
+			<ingredients>
+				<item>tomatoes</item>
+				<item>cucumbers</item>
+				<item>baked cheese</item>
+				<item>fefferoni peppers</item>
+				<item>red onion</item>
+				<item>cornbread</item>
+				<item>eggplant mousse</item>
+				<item>parsley</item>
+			</ingredients>
+			<amount unit="g">420 </amount>
+			<price currency="lv.">8.29 </price>
+		</dish>
+		<dish>
+			<name>Master's salad</name>
+			<ingredients>
+				<item>eggplant mousse</item>
+				<item>tomatoes</item>
+				<item>roasted pepper</item>
+				<item>arugula</item>
+				<item>parsley</item>
+				<item>yoghurt and cheese cream</item>
+				<item>bruschetta</item>
+			</ingredients>
+			<amount unit="g">380 </amount>
+			<price currency="lv.">7.69 </price>
+		</dish>
+	</salad>
+	<appetizer>
+		<dish>
+			<name>Homemade appetizer </name>
+			<ingredients>
+				<item>roasted peppers</item>
+				<item>slightly hot peppers</item>
+				<item>eggplant</item>
+				<item>parsley</item>
+				<item>white cheese</item>
+				<item>bruschetta</item>
+			</ingredients>
+			<amount unit="g">230 </amount>
+			<price currency="lv.">5.79 </price>
+		</dish>
+		<dish>
+			<name>Chef's mezze</name>
+			<ingredients>
+				<item>yoghurt</item>
+				<item>cow and sheep milk cheese</item>
+				<item>eggs</item>
+				<item>roasted pepper</item>
+				<item>parsley</item>
+				<item>dill</item>
+				<item>olives</item>
+				<item>bruschetta</item>
+			</ingredients>
+			<amount unit="g">200 </amount>
+			<price currency="lv.">5.79 </price>
+		</dish>
+		<dish>
+			<name>Mish mash</name>
+			<ingredients>
+				<item>roasted peppers</item>
+				<item>tomatoes</item>
+				<item>white cheese</item>
+				<item>egg</item>
+				<item>parsley</item>
+				<item>bruschetta</item>
+			</ingredients>
+			<amount unit="g">330 </amount>
+			<price currency="lv.">7.69 </price>
+		</dish>
+		<dish>
+			<name>Snezhanka</name>
+			<ingredients>
+				<item>yoghurt</item>
+				<item>cucumbers</item>
+				<item>dill</item>
+				<item>walnuts</item>
+			</ingredients>
+			<amount unit="g">180 </amount>
+			<price currency="lv.">5.49 </price>
+		</dish>
+		<dish>
+			<name>Qatiq</name>
+			<ingredients>
+				<item>yoghurt with sheep milk cheese</item>
+				<item>red pepper</item>
+				<item>bruschetta</item>
+			</ingredients>
+			<amount unit="g">230 </amount>
+			<price currency="lv.">5.69 </price>
+		</dish>
+	</appetizer>
+	<fish>
+		<dish>
+			<name>Plakia fish</name>
+			<ingredients>
+				<item>mackarel fillet</item>
+				<item>tomato sauce</item>
+				<item>fresh lovage</item>
+				<item>olives</item>
+				<item>lemon</item>
+			</ingredients>
+			<amount unit="g">300 </amount>
+			<price currency="lv.">10.99 </price>
+		</dish>
+		<dish>
+			<name>Crispy trout</name>
+			<ingredients>
+				<item>trout</item>
+				<item>roasted seasoned potatoes</item>
+				<item>olive oil sauce</item>
+			</ingredients>
+			<amount unit="g">470 </amount>
+			<price currency="lv.">12.49 </price>
+		</dish>
+		<dish>
+			<name>Grilled mackarel</name>
+			<ingredients>
+				<item>mackarel fillet</item>
+				<item>roasted potatoes</item>
+				<item>homemade appetizer</item>
+			</ingredients>
+			<amount unit="g">370 </amount>
+			<price currency="lv.">11.49 </price>
+		</dish>
+		<dish>
+			<name>Grilled trout</name>
+			<ingredients>
+				<item>trout</item>
+				<item>roasted vegetables</item>
+				<item>lemon</item>
+			</ingredients>
+			<amount unit="g">420 </amount>
+			<price currency="lv.">12.99 </price>
+		</dish>
+	</fish>
+	<chicken>
+		<dish>
+			<name>Chicken with boletus</name>
+			<ingredients>
+				<item>chicken bits with mushroom and boletus sauce</item>
+				<item>stewed onion</item>
+				<item>parmesan</item>
+				<item>mashed potatoes</item>
+				<item>parsley</item>
+				<item>fresh tomatoes</item>
+			</ingredients>
+			<amount unit="g">400 </amount>
+			<price currency="lv.">11.49 </price>
+		</dish>
+		<dish>
+			<name>Thrace chicken</name>
+			<ingredients>
+				<item>1/2 chicken fillet and leg in special marinade</item>
+				<item>french fries</item>
+				<item>garden salad</item>
+				<item>homemade appetizer</item>
+			</ingredients>
+			<amount unit="g">400 </amount>
+			<price currency="lv.">11.99 </price>
+		</dish>
+		<dish>
+			<name>Chicken with sauerkraut and rice</name>
+			<ingredients>
+				<item>chicken steak</item>
+				<item>sauerkraut</item>
+				<item>rice</item>
+				<item>yellow cheese</item>
+			</ingredients>
+			<amount unit="g">400 </amount>
+			<price currency="lv.">10.99 </price>
+		</dish>
+		<dish>
+			<name>Happy chicken</name>
+			<ingredients>
+				<item>chicken steak in aromatic roast sauce</item>
+				<item>mashed potatoes</item>
+				<item>King honey pickle</item>
+				<item>fefferoni pepper</item>
+			</ingredients>
+			<amount unit="g">360 </amount>
+			<price currency="lv.">10.99 </price>
+		</dish>
+		<dish>
+			<name>Chicken kavarma</name>
+			<ingredients>
+				<item>chicken bits</item>
+				<item>bacon</item>
+				<item>spinach</item>
+				<item>mushrooms</item>
+				<item>fresh pepper</item>
+				<item>stewed onions</item>
+				<item>tomatoes</item>
+				<item>parsley</item>
+				<item>yellow cheese</item>
+			</ingredients>
+			<amount unit="g">350 </amount>
+			<price currency="lv.">10.99 </price>
+		</dish>
+	</chicken>
+	<pork>
+		<dish>
+			<name>Pork mixed grill</name>
+			<ingredients>
+				<item>meatball</item>
+				<item>neck loin</item>
+				<item>ribs</item>
+				<item>streaky pork</item>
+				<item>sausage</item>
+				<item>roasted potatoes</item>
+				<item>homemade appetizer</item>
+				<item>pickled pepper</item>
+			</ingredients>
+			<amount unit="g">350 </amount>
+			<price currency="lv.">17.69 </price>
+		</dish>
+		<dish>
+			<name>Boyar style pork shank</name>
+			<ingredients>
+				<item>tender pork shank with pickles</item>
+				<item>olives</item>
+				<item>bacon</item>
+				<item>mushrooms</item>
+				<item>pickled onions</item>
+				<item>parsley</item>
+				<item>polenta with white cheese</item>
+			</ingredients>
+			<amount unit="g">450 </amount>
+			<price currency="lv.">10.99 </price>
+		</dish>
+		<dish>
+			<name>Pork loins with sausage</name>
+			<ingredients>
+				<item>pork neck loins</item>
+				<item>homemade sausages</item>
+				<item>stewed onion</item>
+				<item>sauce with mushrooms and boletus</item>
+				<item>mashed potatoes</item>
+				<item>pickled pepper</item>
+			</ingredients>
+			<amount unit="g">450 </amount>
+			<price currency="lv.">11.49 </price>
+		</dish>
+		<dish>
+			<name>Pork kavarma</name>
+			<ingredients>
+				<item>pork shank</item>
+				<item>bacon</item>
+				<item>spinach</item>
+				<item>mushrooms</item>
+				<item>fresh pepper</item>
+				<item>stewed onions</item>
+				<item>tomatoes</item>
+				<item>parsley</item>
+				<item>yellow cheese</item>
+			</ingredients>
+			<amount unit="g">350 </amount>
+			<price currency="lv.">12.49 </price>
+		</dish>
+	</pork>
+</menu>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT menu (salad,appetizer,fish,chicken,pork)>
+<!ELEMENT salad (dish*)>
+<!ELEMENT appetizer (dish*)>
+<!ELEMENT fish (dish*)>
+<!ELEMENT chicken (dish*)>
+<!ELEMENT pork (dish*)>
+<!ELEMENT dish (name,ingredients?,description?,amount,price)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT ingredients (item+)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT amount (#PCDATA)>
+<!ATTLIST amount unit CDATA #REQUIRED>
+<!ELEMENT price (#PCDATA)>
+<!ATTLIST price currency CDATA #REQUIRED>
+<!ELEMENT item (#PCDATA)>
+
+
